@@ -1,0 +1,12 @@
+{
+    "name": "bitrix/dom.customfilters",
+    "autoload": {
+        "classmap": [
+            "lib"
+        ],
+        "psr-4": {
+            "DomDigital\\CustomFilters\\": "lib/"
+        }
+    },
+    "require": {}
+}
